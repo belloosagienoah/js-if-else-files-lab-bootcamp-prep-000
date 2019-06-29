@@ -6,7 +6,7 @@ if (name === "Susan"){
 }else{
   console.log("Expected the name to be Susan");
 }
-//don'y
+//don't y
 
 // Don't worry about this
 module.exports = { name, height
