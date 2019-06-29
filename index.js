@@ -6,7 +6,7 @@ if (name === "Susan"){
 }else{
   console.log("Expected the name to be Susan");
 }
-//use node index.js or 
+//use node index.js or node 
 
 // Don't worry about this
 module.exports = { name, height
