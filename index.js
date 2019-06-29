@@ -2,7 +2,7 @@ var name = "Joe"
 var height = "74"
 
 if (name === "Susan"){
-  console.lo
+  console.log()
 }
 
 // Don't worry about this
